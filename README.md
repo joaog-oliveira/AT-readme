@@ -12,9 +12,9 @@ Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias
 
 ![plot](images/tela-print-login.png)
 
-## Membros
-- `Gabriel Althoff -  rm15194`
-- Davi Queiroz - rm 15186
-- Willian Feng - rm13675
-- Oliver Kanai - rm14078
-- Joao Gabriel - rm15267
+## Membros deste projeto
+- Joao Gabriel 
+- Gabriel Althoff
+- Davi Queiroz
+- Willian Feng 
+- Oliver Kanai
