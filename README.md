@@ -3,16 +3,23 @@
 <h1 align="center">Diats </h1>
 
 
-Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias, Contagem de Carboidratos, Calculo de dose e Diário de glicemia 
+A ideia do nosso projeto é fazer um site que tem o propósito de ajudar as pessoas que possuem diabetes com algumas funções.
+
+## Funções 
+
+- Contagem de carboidratos
+- Calculo de dose
+- Diário de glicemia
+- Notícias e dicas sobre a diabete
 
 
-## Nosso site
+## Fotos do site
 
-![plot](images/inicial.png)
+![img](images/inicial.png)
 
-![plot](images/login.png)
+![img](images/login.png)
 
-![plot](images/registro.png)
+![img](images/registro.png)
 
 ## Membros deste projeto
 - Joao Gabriel 
