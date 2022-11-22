@@ -8,9 +8,11 @@ Nossa ideia é criar um site para ajudar as pessoa diabeticas, trazendo noticias
 
 ## Nosso site
 
-![plot](images/tela-print.png)
+![plot](images/inicial.png)
 
-![plot](images/tela-print-login.png)
+![plot](images/login.png)
+
+![plot](images/registro.png)
 
 ## Membros deste projeto
 - Joao Gabriel 
